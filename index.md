@@ -8,4 +8,6 @@ layout: default
 
 # Welcome to My Site
 
-This is my GitHub Pages site using the Cayman theme.
+This is my GitHub Pages site using the Cayman theme. Everything should now display correctly.
+
+
