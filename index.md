@@ -1,13 +1,2 @@
----
-layout: default
----
-
-<p align="center">
-  <img src="/logo.png" alt="My Logo" style="height: 80px;">
-</p>
-
-# Welcome to My Site
-
-This is my GitHub Pages site using the Cayman theme. Everything should now display correctly.
-
+<img src="https://raw.githubusercontent.com/aalegrianyc/portfolio/main/logo.png" alt="My Logo">
 
